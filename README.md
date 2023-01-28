@@ -4,7 +4,7 @@ A Reddit clone made using Nextjs, Recoil, Firefox, and ChakraUI
 
 # Demo
 
-[Here](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[Here](https://reddit-clone.up.railway.app/)
 
 # Credit
 
