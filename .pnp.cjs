@@ -43,7 +43,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["next", "virtual:d7d584432701e9ea6acdd476eb5d09493d9311a1872e43ddb39d153287f62a8a75fb5f5f5153c41bed85dcb0e8e2ff4d5227d4ed722c36351c5eff7fe5fb4096#npm:13.2.3"],\
             ["react", "npm:18.2.0"],\
             ["react-dom", "virtual:d7d584432701e9ea6acdd476eb5d09493d9311a1872e43ddb39d153287f62a8a75fb5f5f5153c41bed85dcb0e8e2ff4d5227d4ed722c36351c5eff7fe5fb4096#npm:18.2.0"],\
-            ["recoil", "virtual:d7d584432701e9ea6acdd476eb5d09493d9311a1872e43ddb39d153287f62a8a75fb5f5f5153c41bed85dcb0e8e2ff4d5227d4ed722c36351c5eff7fe5fb4096#npm:0.7.6"],\
+            ["recoil", "virtual:d7d584432701e9ea6acdd476eb5d09493d9311a1872e43ddb39d153287f62a8a75fb5f5f5153c41bed85dcb0e8e2ff4d5227d4ed722c36351c5eff7fe5fb4096#npm:0.7.7"],\
             ["typescript", "patch:typescript@npm%3A4.9.5#~builtin<compat/typescript>::version=4.9.5&hash=23ec76"]\
           ],\
           "linkType": "SOFT"\
@@ -7169,17 +7169,17 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["recoil", [\
-        ["npm:0.7.6", {\
-          "packageLocation": "./.yarn/cache/recoil-npm-0.7.6-6f8de04e3d-2b31dd29a7.zip/node_modules/recoil/",\
+        ["npm:0.7.7", {\
+          "packageLocation": "./.yarn/cache/recoil-npm-0.7.7-4452f58b67-65edecbcb8.zip/node_modules/recoil/",\
           "packageDependencies": [\
-            ["recoil", "npm:0.7.6"]\
+            ["recoil", "npm:0.7.7"]\
           ],\
           "linkType": "SOFT"\
         }],\
-        ["virtual:d7d584432701e9ea6acdd476eb5d09493d9311a1872e43ddb39d153287f62a8a75fb5f5f5153c41bed85dcb0e8e2ff4d5227d4ed722c36351c5eff7fe5fb4096#npm:0.7.6", {\
-          "packageLocation": "./.yarn/__virtual__/recoil-virtual-2c5cc21088/0/cache/recoil-npm-0.7.6-6f8de04e3d-2b31dd29a7.zip/node_modules/recoil/",\
+        ["virtual:d7d584432701e9ea6acdd476eb5d09493d9311a1872e43ddb39d153287f62a8a75fb5f5f5153c41bed85dcb0e8e2ff4d5227d4ed722c36351c5eff7fe5fb4096#npm:0.7.7", {\
+          "packageLocation": "./.yarn/__virtual__/recoil-virtual-d7f81aa302/0/cache/recoil-npm-0.7.7-4452f58b67-65edecbcb8.zip/node_modules/recoil/",\
           "packageDependencies": [\
-            ["recoil", "virtual:d7d584432701e9ea6acdd476eb5d09493d9311a1872e43ddb39d153287f62a8a75fb5f5f5153c41bed85dcb0e8e2ff4d5227d4ed722c36351c5eff7fe5fb4096#npm:0.7.6"],\
+            ["recoil", "virtual:d7d584432701e9ea6acdd476eb5d09493d9311a1872e43ddb39d153287f62a8a75fb5f5f5153c41bed85dcb0e8e2ff4d5227d4ed722c36351c5eff7fe5fb4096#npm:0.7.7"],\
             ["@types/react", "npm:18.0.28"],\
             ["@types/react-dom", "npm:18.0.11"],\
             ["@types/react-native", null],\
@@ -7219,7 +7219,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["next", "virtual:d7d584432701e9ea6acdd476eb5d09493d9311a1872e43ddb39d153287f62a8a75fb5f5f5153c41bed85dcb0e8e2ff4d5227d4ed722c36351c5eff7fe5fb4096#npm:13.2.3"],\
             ["react", "npm:18.2.0"],\
             ["react-dom", "virtual:d7d584432701e9ea6acdd476eb5d09493d9311a1872e43ddb39d153287f62a8a75fb5f5f5153c41bed85dcb0e8e2ff4d5227d4ed722c36351c5eff7fe5fb4096#npm:18.2.0"],\
-            ["recoil", "virtual:d7d584432701e9ea6acdd476eb5d09493d9311a1872e43ddb39d153287f62a8a75fb5f5f5153c41bed85dcb0e8e2ff4d5227d4ed722c36351c5eff7fe5fb4096#npm:0.7.6"],\
+            ["recoil", "virtual:d7d584432701e9ea6acdd476eb5d09493d9311a1872e43ddb39d153287f62a8a75fb5f5f5153c41bed85dcb0e8e2ff4d5227d4ed722c36351c5eff7fe5fb4096#npm:0.7.7"],\
             ["typescript", "patch:typescript@npm%3A4.9.5#~builtin<compat/typescript>::version=4.9.5&hash=23ec76"]\
           ],\
           "linkType": "SOFT"\
