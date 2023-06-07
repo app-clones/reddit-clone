@@ -29,7 +29,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./",\
           "packageDependencies": [\
             ["@chakra-ui/react", "virtual:d7d584432701e9ea6acdd476eb5d09493d9311a1872e43ddb39d153287f62a8a75fb5f5f5153c41bed85dcb0e8e2ff4d5227d4ed722c36351c5eff7fe5fb4096#npm:2.7.0"],\
-            ["@emotion/react", "virtual:d7d584432701e9ea6acdd476eb5d09493d9311a1872e43ddb39d153287f62a8a75fb5f5f5153c41bed85dcb0e8e2ff4d5227d4ed722c36351c5eff7fe5fb4096#npm:11.11.0"],\
+            ["@emotion/react", "virtual:d7d584432701e9ea6acdd476eb5d09493d9311a1872e43ddb39d153287f62a8a75fb5f5f5153c41bed85dcb0e8e2ff4d5227d4ed722c36351c5eff7fe5fb4096#npm:11.11.1"],\
             ["@emotion/styled", "virtual:d7d584432701e9ea6acdd476eb5d09493d9311a1872e43ddb39d153287f62a8a75fb5f5f5153c41bed85dcb0e8e2ff4d5227d4ed722c36351c5eff7fe5fb4096#npm:11.11.0"],\
             ["@fontsource/open-sans", "npm:5.0.2"],\
             ["@next/font", "npm:13.4.4"],\
@@ -497,7 +497,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./.yarn/__virtual__/@chakra-ui-css-reset-virtual-cafabc9b8f/0/cache/@chakra-ui-css-reset-npm-2.1.2-00658d2027-c051c4a8b9.zip/node_modules/@chakra-ui/css-reset/",\
           "packageDependencies": [\
             ["@chakra-ui/css-reset", "virtual:1278ad88f8fb0217ce6e4ad1d352d9630a92dbb98b30ba9a26a450771f84fc6f113137a8e885c0f3a788e7761c377aeae3b1700c95b49199dfc49818ab5f27ea#npm:2.1.2"],\
-            ["@emotion/react", "virtual:d7d584432701e9ea6acdd476eb5d09493d9311a1872e43ddb39d153287f62a8a75fb5f5f5153c41bed85dcb0e8e2ff4d5227d4ed722c36351c5eff7fe5fb4096#npm:11.11.0"],\
+            ["@emotion/react", "virtual:d7d584432701e9ea6acdd476eb5d09493d9311a1872e43ddb39d153287f62a8a75fb5f5f5153c41bed85dcb0e8e2ff4d5227d4ed722c36351c5eff7fe5fb4096#npm:11.11.1"],\
             ["@types/emotion__react", null],\
             ["@types/react", "npm:18.2.8"],\
             ["react", "npm:18.2.0"]\
@@ -1162,7 +1162,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@chakra-ui/react-env", "virtual:1278ad88f8fb0217ce6e4ad1d352d9630a92dbb98b30ba9a26a450771f84fc6f113137a8e885c0f3a788e7761c377aeae3b1700c95b49199dfc49818ab5f27ea#npm:3.0.0"],\
             ["@chakra-ui/system", "virtual:1278ad88f8fb0217ce6e4ad1d352d9630a92dbb98b30ba9a26a450771f84fc6f113137a8e885c0f3a788e7761c377aeae3b1700c95b49199dfc49818ab5f27ea#npm:2.5.8"],\
             ["@chakra-ui/utils", "npm:2.0.15"],\
-            ["@emotion/react", "virtual:d7d584432701e9ea6acdd476eb5d09493d9311a1872e43ddb39d153287f62a8a75fb5f5f5153c41bed85dcb0e8e2ff4d5227d4ed722c36351c5eff7fe5fb4096#npm:11.11.0"],\
+            ["@emotion/react", "virtual:d7d584432701e9ea6acdd476eb5d09493d9311a1872e43ddb39d153287f62a8a75fb5f5f5153c41bed85dcb0e8e2ff4d5227d4ed722c36351c5eff7fe5fb4096#npm:11.11.1"],\
             ["@emotion/styled", "virtual:d7d584432701e9ea6acdd476eb5d09493d9311a1872e43ddb39d153287f62a8a75fb5f5f5153c41bed85dcb0e8e2ff4d5227d4ed722c36351c5eff7fe5fb4096#npm:11.11.0"],\
             ["@types/emotion__react", null],\
             ["@types/emotion__styled", null],\
@@ -1280,7 +1280,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@chakra-ui/transition", "virtual:1278ad88f8fb0217ce6e4ad1d352d9630a92dbb98b30ba9a26a450771f84fc6f113137a8e885c0f3a788e7761c377aeae3b1700c95b49199dfc49818ab5f27ea#npm:2.0.16"],\
             ["@chakra-ui/utils", "npm:2.0.15"],\
             ["@chakra-ui/visually-hidden", "virtual:1278ad88f8fb0217ce6e4ad1d352d9630a92dbb98b30ba9a26a450771f84fc6f113137a8e885c0f3a788e7761c377aeae3b1700c95b49199dfc49818ab5f27ea#npm:2.0.15"],\
-            ["@emotion/react", "virtual:d7d584432701e9ea6acdd476eb5d09493d9311a1872e43ddb39d153287f62a8a75fb5f5f5153c41bed85dcb0e8e2ff4d5227d4ed722c36351c5eff7fe5fb4096#npm:11.11.0"],\
+            ["@emotion/react", "virtual:d7d584432701e9ea6acdd476eb5d09493d9311a1872e43ddb39d153287f62a8a75fb5f5f5153c41bed85dcb0e8e2ff4d5227d4ed722c36351c5eff7fe5fb4096#npm:11.11.1"],\
             ["@emotion/styled", "virtual:d7d584432701e9ea6acdd476eb5d09493d9311a1872e43ddb39d153287f62a8a75fb5f5f5153c41bed85dcb0e8e2ff4d5227d4ed722c36351c5eff7fe5fb4096#npm:11.11.0"],\
             ["@types/emotion__react", null],\
             ["@types/emotion__styled", null],\
@@ -2058,7 +2058,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@chakra-ui/styled-system", "npm:2.9.1"],\
             ["@chakra-ui/theme-utils", "npm:2.0.18"],\
             ["@chakra-ui/utils", "npm:2.0.15"],\
-            ["@emotion/react", "virtual:d7d584432701e9ea6acdd476eb5d09493d9311a1872e43ddb39d153287f62a8a75fb5f5f5153c41bed85dcb0e8e2ff4d5227d4ed722c36351c5eff7fe5fb4096#npm:11.11.0"],\
+            ["@emotion/react", "virtual:d7d584432701e9ea6acdd476eb5d09493d9311a1872e43ddb39d153287f62a8a75fb5f5f5153c41bed85dcb0e8e2ff4d5227d4ed722c36351c5eff7fe5fb4096#npm:11.11.1"],\
             ["@emotion/styled", "virtual:d7d584432701e9ea6acdd476eb5d09493d9311a1872e43ddb39d153287f62a8a75fb5f5f5153c41bed85dcb0e8e2ff4d5227d4ed722c36351c5eff7fe5fb4096#npm:11.11.0"],\
             ["@types/emotion__react", null],\
             ["@types/emotion__styled", null],\
@@ -2488,22 +2488,22 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["@emotion/react", [\
-        ["npm:11.11.0", {\
-          "packageLocation": "./.yarn/cache/@emotion-react-npm-11.11.0-fda75c579c-2653e7c3de.zip/node_modules/@emotion/react/",\
+        ["npm:11.11.1", {\
+          "packageLocation": "./.yarn/cache/@emotion-react-npm-11.11.1-a07d6a6ebd-aec3c36650.zip/node_modules/@emotion/react/",\
           "packageDependencies": [\
-            ["@emotion/react", "npm:11.11.0"]\
+            ["@emotion/react", "npm:11.11.1"]\
           ],\
           "linkType": "SOFT"\
         }],\
-        ["virtual:d7d584432701e9ea6acdd476eb5d09493d9311a1872e43ddb39d153287f62a8a75fb5f5f5153c41bed85dcb0e8e2ff4d5227d4ed722c36351c5eff7fe5fb4096#npm:11.11.0", {\
-          "packageLocation": "./.yarn/__virtual__/@emotion-react-virtual-c8ff2815f3/0/cache/@emotion-react-npm-11.11.0-fda75c579c-2653e7c3de.zip/node_modules/@emotion/react/",\
+        ["virtual:d7d584432701e9ea6acdd476eb5d09493d9311a1872e43ddb39d153287f62a8a75fb5f5f5153c41bed85dcb0e8e2ff4d5227d4ed722c36351c5eff7fe5fb4096#npm:11.11.1", {\
+          "packageLocation": "./.yarn/__virtual__/@emotion-react-virtual-c8859a747d/0/cache/@emotion-react-npm-11.11.1-a07d6a6ebd-aec3c36650.zip/node_modules/@emotion/react/",\
           "packageDependencies": [\
-            ["@emotion/react", "virtual:d7d584432701e9ea6acdd476eb5d09493d9311a1872e43ddb39d153287f62a8a75fb5f5f5153c41bed85dcb0e8e2ff4d5227d4ed722c36351c5eff7fe5fb4096#npm:11.11.0"],\
+            ["@emotion/react", "virtual:d7d584432701e9ea6acdd476eb5d09493d9311a1872e43ddb39d153287f62a8a75fb5f5f5153c41bed85dcb0e8e2ff4d5227d4ed722c36351c5eff7fe5fb4096#npm:11.11.1"],\
             ["@babel/runtime", "npm:7.20.13"],\
             ["@emotion/babel-plugin", "npm:11.11.0"],\
             ["@emotion/cache", "npm:11.11.0"],\
             ["@emotion/serialize", "npm:1.1.2"],\
-            ["@emotion/use-insertion-effect-with-fallbacks", "virtual:c8ff2815f3b90fe7c4fa9cdcdc4d86ff678a159d2c1f62f59dc91be07235430816677edc1e53ca07a224673039629ab6f08cd1c032b2180509626aa8149ca9e0#npm:1.0.1"],\
+            ["@emotion/use-insertion-effect-with-fallbacks", "virtual:c8859a747d181dcbfe4992645e10fcd1c543c9b5b9090ee678d073f9c81f8d32483d0e63ffa31c1c2f848ac4b9d7f8bd30e8d3475bbd80922637eaf9bdf00d83#npm:1.0.1"],\
             ["@emotion/utils", "npm:1.2.1"],\
             ["@emotion/weak-memoize", "npm:0.3.1"],\
             ["@types/react", "npm:18.2.8"],\
@@ -2555,9 +2555,9 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@babel/runtime", "npm:7.20.13"],\
             ["@emotion/babel-plugin", "npm:11.11.0"],\
             ["@emotion/is-prop-valid", "npm:1.2.1"],\
-            ["@emotion/react", "virtual:d7d584432701e9ea6acdd476eb5d09493d9311a1872e43ddb39d153287f62a8a75fb5f5f5153c41bed85dcb0e8e2ff4d5227d4ed722c36351c5eff7fe5fb4096#npm:11.11.0"],\
+            ["@emotion/react", "virtual:d7d584432701e9ea6acdd476eb5d09493d9311a1872e43ddb39d153287f62a8a75fb5f5f5153c41bed85dcb0e8e2ff4d5227d4ed722c36351c5eff7fe5fb4096#npm:11.11.1"],\
             ["@emotion/serialize", "npm:1.1.2"],\
-            ["@emotion/use-insertion-effect-with-fallbacks", "virtual:c8ff2815f3b90fe7c4fa9cdcdc4d86ff678a159d2c1f62f59dc91be07235430816677edc1e53ca07a224673039629ab6f08cd1c032b2180509626aa8149ca9e0#npm:1.0.1"],\
+            ["@emotion/use-insertion-effect-with-fallbacks", "virtual:c8859a747d181dcbfe4992645e10fcd1c543c9b5b9090ee678d073f9c81f8d32483d0e63ffa31c1c2f848ac4b9d7f8bd30e8d3475bbd80922637eaf9bdf00d83#npm:1.0.1"],\
             ["@emotion/utils", "npm:1.2.1"],\
             ["@types/emotion__react", null],\
             ["@types/react", "npm:18.2.8"],\
@@ -2589,10 +2589,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           ],\
           "linkType": "SOFT"\
         }],\
-        ["virtual:c8ff2815f3b90fe7c4fa9cdcdc4d86ff678a159d2c1f62f59dc91be07235430816677edc1e53ca07a224673039629ab6f08cd1c032b2180509626aa8149ca9e0#npm:1.0.1", {\
-          "packageLocation": "./.yarn/__virtual__/@emotion-use-insertion-effect-with-fallbacks-virtual-105157be14/0/cache/@emotion-use-insertion-effect-with-fallbacks-npm-1.0.1-730758c66c-700b6e5bbb.zip/node_modules/@emotion/use-insertion-effect-with-fallbacks/",\
+        ["virtual:c8859a747d181dcbfe4992645e10fcd1c543c9b5b9090ee678d073f9c81f8d32483d0e63ffa31c1c2f848ac4b9d7f8bd30e8d3475bbd80922637eaf9bdf00d83#npm:1.0.1", {\
+          "packageLocation": "./.yarn/__virtual__/@emotion-use-insertion-effect-with-fallbacks-virtual-d26add3808/0/cache/@emotion-use-insertion-effect-with-fallbacks-npm-1.0.1-730758c66c-700b6e5bbb.zip/node_modules/@emotion/use-insertion-effect-with-fallbacks/",\
           "packageDependencies": [\
-            ["@emotion/use-insertion-effect-with-fallbacks", "virtual:c8ff2815f3b90fe7c4fa9cdcdc4d86ff678a159d2c1f62f59dc91be07235430816677edc1e53ca07a224673039629ab6f08cd1c032b2180509626aa8149ca9e0#npm:1.0.1"],\
+            ["@emotion/use-insertion-effect-with-fallbacks", "virtual:c8859a747d181dcbfe4992645e10fcd1c543c9b5b9090ee678d073f9c81f8d32483d0e63ffa31c1c2f848ac4b9d7f8bd30e8d3475bbd80922637eaf9bdf00d83#npm:1.0.1"],\
             ["@types/react", "npm:18.2.8"],\
             ["react", "npm:18.2.0"]\
           ],\
@@ -7210,7 +7210,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageDependencies": [\
             ["reddit-clone", "workspace:."],\
             ["@chakra-ui/react", "virtual:d7d584432701e9ea6acdd476eb5d09493d9311a1872e43ddb39d153287f62a8a75fb5f5f5153c41bed85dcb0e8e2ff4d5227d4ed722c36351c5eff7fe5fb4096#npm:2.7.0"],\
-            ["@emotion/react", "virtual:d7d584432701e9ea6acdd476eb5d09493d9311a1872e43ddb39d153287f62a8a75fb5f5f5153c41bed85dcb0e8e2ff4d5227d4ed722c36351c5eff7fe5fb4096#npm:11.11.0"],\
+            ["@emotion/react", "virtual:d7d584432701e9ea6acdd476eb5d09493d9311a1872e43ddb39d153287f62a8a75fb5f5f5153c41bed85dcb0e8e2ff4d5227d4ed722c36351c5eff7fe5fb4096#npm:11.11.1"],\
             ["@emotion/styled", "virtual:d7d584432701e9ea6acdd476eb5d09493d9311a1872e43ddb39d153287f62a8a75fb5f5f5153c41bed85dcb0e8e2ff4d5227d4ed722c36351c5eff7fe5fb4096#npm:11.11.0"],\
             ["@fontsource/open-sans", "npm:5.0.2"],\
             ["@next/font", "npm:13.4.4"],\
