@@ -3530,9 +3530,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"framer-motion@npm:^10.13.0":
-  version: 10.13.0
-  resolution: "framer-motion@npm:10.13.0"
+"framer-motion@npm:^10.13.1":
+  version: 10.13.1
+  resolution: "framer-motion@npm:10.13.1"
   dependencies:
     "@emotion/is-prop-valid": ^0.8.2
     tslib: ^2.4.0
@@ -3547,7 +3547,7 @@ __metadata:
       optional: true
     react-dom:
       optional: true
-  checksum: b84b78b6994bd77814a3fa0dfb4f266b74221369d9e82e350f8c8b2ec952d683597a373fe49609645631af020de42a6ec041bac60a022e396ff0be70c4233d87
+  checksum: 3df72d5ba72312dcec73044bf5478e89e099e7cee7f2996db15305a0e5a799909e6e782770ba8e3cfc44059093dfd06043b9a157e1faa85977930846a0ea4fd1
   languageName: node
   linkType: hard
 
@@ -4937,7 +4937,7 @@ __metadata:
     eslint: 8.45.0
     eslint-config-next: 13.4.12
     firebase: ^10.1.0
-    framer-motion: ^10.13.0
+    framer-motion: ^10.13.1
     next: 13.4.12
     react: 18.2.0
     react-dom: 18.2.0
