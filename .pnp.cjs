@@ -33,7 +33,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@emotion/styled", "virtual:d7d584432701e9ea6acdd476eb5d09493d9311a1872e43ddb39d153287f62a8a75fb5f5f5153c41bed85dcb0e8e2ff4d5227d4ed722c36351c5eff7fe5fb4096#npm:11.11.0"],\
             ["@fontsource/open-sans", "npm:5.0.12"],\
             ["@next/font", "npm:13.5.3"],\
-            ["@types/node", "npm:18.18.0"],\
+            ["@types/node", "npm:18.18.1"],\
             ["@types/react", "npm:18.2.23"],\
             ["@types/react-dom", "npm:18.2.8"],\
             ["eslint", "npm:8.50.0"],\
@@ -4127,10 +4127,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           ],\
           "linkType": "HARD"\
         }],\
-        ["npm:18.18.0", {\
-          "packageLocation": "./.yarn/cache/@types-node-npm-18.18.0-6c59c15776-61bcffa28e.zip/node_modules/@types/node/",\
+        ["npm:18.18.1", {\
+          "packageLocation": "./.yarn/cache/@types-node-npm-18.18.1-323b86a458-079085afc8.zip/node_modules/@types/node/",\
           "packageDependencies": [\
-            ["@types/node", "npm:18.18.0"]\
+            ["@types/node", "npm:18.18.1"]\
           ],\
           "linkType": "HARD"\
         }]\
@@ -7512,7 +7512,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@emotion/styled", "virtual:d7d584432701e9ea6acdd476eb5d09493d9311a1872e43ddb39d153287f62a8a75fb5f5f5153c41bed85dcb0e8e2ff4d5227d4ed722c36351c5eff7fe5fb4096#npm:11.11.0"],\
             ["@fontsource/open-sans", "npm:5.0.12"],\
             ["@next/font", "npm:13.5.3"],\
-            ["@types/node", "npm:18.18.0"],\
+            ["@types/node", "npm:18.18.1"],\
             ["@types/react", "npm:18.2.23"],\
             ["@types/react-dom", "npm:18.2.8"],\
             ["eslint", "npm:8.50.0"],\
