@@ -31,7 +31,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@chakra-ui/react", "virtual:d7d584432701e9ea6acdd476eb5d09493d9311a1872e43ddb39d153287f62a8a75fb5f5f5153c41bed85dcb0e8e2ff4d5227d4ed722c36351c5eff7fe5fb4096#npm:2.8.1"],\
             ["@emotion/react", "virtual:d7d584432701e9ea6acdd476eb5d09493d9311a1872e43ddb39d153287f62a8a75fb5f5f5153c41bed85dcb0e8e2ff4d5227d4ed722c36351c5eff7fe5fb4096#npm:11.11.1"],\
             ["@emotion/styled", "virtual:d7d584432701e9ea6acdd476eb5d09493d9311a1872e43ddb39d153287f62a8a75fb5f5f5153c41bed85dcb0e8e2ff4d5227d4ed722c36351c5eff7fe5fb4096#npm:11.11.0"],\
-            ["@fontsource/open-sans", "npm:5.0.16"],\
+            ["@fontsource/open-sans", "npm:5.0.17"],\
             ["@next/font", "npm:13.5.6"],\
             ["@types/node", "npm:18.18.6"],\
             ["@types/react", "npm:18.2.31"],\
@@ -3744,10 +3744,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["@fontsource/open-sans", [\
-        ["npm:5.0.16", {\
-          "packageLocation": "./.yarn/cache/@fontsource-open-sans-npm-5.0.16-218ef942a3-ac564e2b69.zip/node_modules/@fontsource/open-sans/",\
+        ["npm:5.0.17", {\
+          "packageLocation": "./.yarn/cache/@fontsource-open-sans-npm-5.0.17-f58bb5af37-59d9a47605.zip/node_modules/@fontsource/open-sans/",\
           "packageDependencies": [\
-            ["@fontsource/open-sans", "npm:5.0.16"]\
+            ["@fontsource/open-sans", "npm:5.0.17"]\
           ],\
           "linkType": "HARD"\
         }]\
@@ -7519,7 +7519,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@chakra-ui/react", "virtual:d7d584432701e9ea6acdd476eb5d09493d9311a1872e43ddb39d153287f62a8a75fb5f5f5153c41bed85dcb0e8e2ff4d5227d4ed722c36351c5eff7fe5fb4096#npm:2.8.1"],\
             ["@emotion/react", "virtual:d7d584432701e9ea6acdd476eb5d09493d9311a1872e43ddb39d153287f62a8a75fb5f5f5153c41bed85dcb0e8e2ff4d5227d4ed722c36351c5eff7fe5fb4096#npm:11.11.1"],\
             ["@emotion/styled", "virtual:d7d584432701e9ea6acdd476eb5d09493d9311a1872e43ddb39d153287f62a8a75fb5f5f5153c41bed85dcb0e8e2ff4d5227d4ed722c36351c5eff7fe5fb4096#npm:11.11.0"],\
-            ["@fontsource/open-sans", "npm:5.0.16"],\
+            ["@fontsource/open-sans", "npm:5.0.17"],\
             ["@next/font", "npm:13.5.6"],\
             ["@types/node", "npm:18.18.6"],\
             ["@types/react", "npm:18.2.31"],\
