@@ -31,7 +31,7 @@ const RAW_RUNTIME_STATE =
           ["@emotion/styled", "virtual:d7d584432701e9ea6acdd476eb5d09493d9311a1872e43ddb39d153287f62a8a75fb5f5f5153c41bed85dcb0e8e2ff4d5227d4ed722c36351c5eff7fe5fb4096#npm:11.11.0"],\
           ["@fontsource/open-sans", "npm:5.0.17"],\
           ["@next/font", "npm:13.5.6"],\
-          ["@types/node", "npm:20.8.8"],\
+          ["@types/node", "npm:20.8.9"],\
           ["@types/react", "npm:18.2.32"],\
           ["@types/react-dom", "npm:18.2.14"],\
           ["eslint", "npm:8.52.0"],\
@@ -4125,11 +4125,11 @@ const RAW_RUNTIME_STATE =
         ],\
         "linkType": "HARD"\
       }],\
-      ["npm:20.8.8", {\
-        "packageLocation": "../../../../cache/others/berry/cache/@types-node-npm-20.8.8-8e65100064-10c0.zip/node_modules/@types/node/",\
+      ["npm:20.8.9", {\
+        "packageLocation": "../../../../cache/others/berry/cache/@types-node-npm-20.8.9-9c9903a005-10c0.zip/node_modules/@types/node/",\
         "packageDependencies": [\
-          ["@types/node", "npm:20.8.8"],\
-          ["undici-types", "npm:5.25.3"]\
+          ["@types/node", "npm:20.8.9"],\
+          ["undici-types", "npm:5.26.5"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -7520,7 +7520,7 @@ const RAW_RUNTIME_STATE =
           ["@emotion/styled", "virtual:d7d584432701e9ea6acdd476eb5d09493d9311a1872e43ddb39d153287f62a8a75fb5f5f5153c41bed85dcb0e8e2ff4d5227d4ed722c36351c5eff7fe5fb4096#npm:11.11.0"],\
           ["@fontsource/open-sans", "npm:5.0.17"],\
           ["@next/font", "npm:13.5.6"],\
-          ["@types/node", "npm:20.8.8"],\
+          ["@types/node", "npm:20.8.9"],\
           ["@types/react", "npm:18.2.32"],\
           ["@types/react-dom", "npm:18.2.14"],\
           ["eslint", "npm:8.52.0"],\
@@ -8225,10 +8225,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["undici-types", [\
-      ["npm:5.25.3", {\
-        "packageLocation": "../../../../cache/others/berry/cache/undici-types-npm-5.25.3-2ac9eafc9e-10c0.zip/node_modules/undici-types/",\
+      ["npm:5.26.5", {\
+        "packageLocation": "../../../../cache/others/berry/cache/undici-types-npm-5.26.5-de4f7c7bb9-10c0.zip/node_modules/undici-types/",\
         "packageDependencies": [\
-          ["undici-types", "npm:5.25.3"]\
+          ["undici-types", "npm:5.26.5"]\
         ],\
         "linkType": "HARD"\
       }]\
