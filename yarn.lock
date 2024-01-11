@@ -2003,10 +2003,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@fontsource/open-sans@npm:^5.0.20":
-  version: 5.0.20
-  resolution: "@fontsource/open-sans@npm:5.0.20"
-  checksum: 323bbe403804f12f476b4c942aa0baae6d04a18e7e208a509bdf5c913ca1e4867df99675865f6cca3b4f665f84ba52cf29745e14d115e34d0b704080b0f0a45a
+"@fontsource/open-sans@npm:^5.0.21":
+  version: 5.0.21
+  resolution: "@fontsource/open-sans@npm:5.0.21"
+  checksum: a931a56041e0c252f4520f7f1102fc34db48160e24f58bd6808aa1f299fb1c321993fa742e803295d7d1b60783f13dc7a5f21f27043a21cc218d31b28e46ac21
   languageName: node
   linkType: hard
 
@@ -5159,7 +5159,7 @@ __metadata:
     "@chakra-ui/react": "npm:^2.8.2"
     "@emotion/react": "npm:^11.11.3"
     "@emotion/styled": "npm:^11.11.0"
-    "@fontsource/open-sans": "npm:^5.0.20"
+    "@fontsource/open-sans": "npm:^5.0.21"
     "@next/font": "npm:14.0.4"
     "@types/node": "npm:20.11.0"
     "@types/react": "npm:18.2.47"
