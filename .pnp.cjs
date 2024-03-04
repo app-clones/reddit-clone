@@ -29,7 +29,7 @@ const RAW_RUNTIME_STATE =
           ["@chakra-ui/react", "virtual:d7d584432701e9ea6acdd476eb5d09493d9311a1872e43ddb39d153287f62a8a75fb5f5f5153c41bed85dcb0e8e2ff4d5227d4ed722c36351c5eff7fe5fb4096#npm:2.8.2"],\
           ["@emotion/react", "virtual:d7d584432701e9ea6acdd476eb5d09493d9311a1872e43ddb39d153287f62a8a75fb5f5f5153c41bed85dcb0e8e2ff4d5227d4ed722c36351c5eff7fe5fb4096#npm:11.11.4"],\
           ["@emotion/styled", "virtual:d7d584432701e9ea6acdd476eb5d09493d9311a1872e43ddb39d153287f62a8a75fb5f5f5153c41bed85dcb0e8e2ff4d5227d4ed722c36351c5eff7fe5fb4096#npm:11.11.0"],\
-          ["@fontsource/open-sans", "npm:5.0.24"],\
+          ["@fontsource/open-sans", "npm:5.0.25"],\
           ["@next/font", "virtual:d7d584432701e9ea6acdd476eb5d09493d9311a1872e43ddb39d153287f62a8a75fb5f5f5153c41bed85dcb0e8e2ff4d5227d4ed722c36351c5eff7fe5fb4096#npm:14.1.0"],\
           ["@types/node", "npm:20.11.24"],\
           ["@types/react", "npm:18.2.61"],\
@@ -3764,10 +3764,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["@fontsource/open-sans", [\
-      ["npm:5.0.24", {\
-        "packageLocation": "../../../../cache/others/berry/cache/@fontsource-open-sans-npm-5.0.24-99671dd911-10c0.zip/node_modules/@fontsource/open-sans/",\
+      ["npm:5.0.25", {\
+        "packageLocation": "../../../../cache/others/berry/cache/@fontsource-open-sans-npm-5.0.25-28ccbdad4b-10c0.zip/node_modules/@fontsource/open-sans/",\
         "packageDependencies": [\
-          ["@fontsource/open-sans", "npm:5.0.24"]\
+          ["@fontsource/open-sans", "npm:5.0.25"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -7641,7 +7641,7 @@ const RAW_RUNTIME_STATE =
           ["@chakra-ui/react", "virtual:d7d584432701e9ea6acdd476eb5d09493d9311a1872e43ddb39d153287f62a8a75fb5f5f5153c41bed85dcb0e8e2ff4d5227d4ed722c36351c5eff7fe5fb4096#npm:2.8.2"],\
           ["@emotion/react", "virtual:d7d584432701e9ea6acdd476eb5d09493d9311a1872e43ddb39d153287f62a8a75fb5f5f5153c41bed85dcb0e8e2ff4d5227d4ed722c36351c5eff7fe5fb4096#npm:11.11.4"],\
           ["@emotion/styled", "virtual:d7d584432701e9ea6acdd476eb5d09493d9311a1872e43ddb39d153287f62a8a75fb5f5f5153c41bed85dcb0e8e2ff4d5227d4ed722c36351c5eff7fe5fb4096#npm:11.11.0"],\
-          ["@fontsource/open-sans", "npm:5.0.24"],\
+          ["@fontsource/open-sans", "npm:5.0.25"],\
           ["@next/font", "virtual:d7d584432701e9ea6acdd476eb5d09493d9311a1872e43ddb39d153287f62a8a75fb5f5f5153c41bed85dcb0e8e2ff4d5227d4ed722c36351c5eff7fe5fb4096#npm:14.1.0"],\
           ["@types/node", "npm:20.11.24"],\
           ["@types/react", "npm:18.2.61"],\
