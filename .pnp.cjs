@@ -31,7 +31,7 @@ const RAW_RUNTIME_STATE =
           ["@emotion/styled", "virtual:d7d584432701e9ea6acdd476eb5d09493d9311a1872e43ddb39d153287f62a8a75fb5f5f5153c41bed85dcb0e8e2ff4d5227d4ed722c36351c5eff7fe5fb4096#npm:11.11.0"],\
           ["@fontsource/open-sans", "npm:5.0.27"],\
           ["@next/font", "virtual:d7d584432701e9ea6acdd476eb5d09493d9311a1872e43ddb39d153287f62a8a75fb5f5f5153c41bed85dcb0e8e2ff4d5227d4ed722c36351c5eff7fe5fb4096#npm:14.1.3"],\
-          ["@types/node", "npm:20.11.27"],\
+          ["@types/node", "npm:20.11.28"],\
           ["@types/react", "npm:18.2.66"],\
           ["@types/react-dom", "npm:18.2.22"],\
           ["eslint", "npm:8.57.0"],\
@@ -4178,10 +4178,10 @@ const RAW_RUNTIME_STATE =
         ],\
         "linkType": "HARD"\
       }],\
-      ["npm:20.11.27", {\
-        "packageLocation": "../../../../cache/others/berry/cache/@types-node-npm-20.11.27-63306d6ffa-10c0.zip/node_modules/@types/node/",\
+      ["npm:20.11.28", {\
+        "packageLocation": "../../../../cache/others/berry/cache/@types-node-npm-20.11.28-6be967407c-10c0.zip/node_modules/@types/node/",\
         "packageDependencies": [\
-          ["@types/node", "npm:20.11.27"],\
+          ["@types/node", "npm:20.11.28"],\
           ["undici-types", "npm:5.26.5"]\
         ],\
         "linkType": "HARD"\
@@ -7631,7 +7631,7 @@ const RAW_RUNTIME_STATE =
           ["@emotion/styled", "virtual:d7d584432701e9ea6acdd476eb5d09493d9311a1872e43ddb39d153287f62a8a75fb5f5f5153c41bed85dcb0e8e2ff4d5227d4ed722c36351c5eff7fe5fb4096#npm:11.11.0"],\
           ["@fontsource/open-sans", "npm:5.0.27"],\
           ["@next/font", "virtual:d7d584432701e9ea6acdd476eb5d09493d9311a1872e43ddb39d153287f62a8a75fb5f5f5153c41bed85dcb0e8e2ff4d5227d4ed722c36351c5eff7fe5fb4096#npm:14.1.3"],\
-          ["@types/node", "npm:20.11.27"],\
+          ["@types/node", "npm:20.11.28"],\
           ["@types/react", "npm:18.2.66"],\
           ["@types/react-dom", "npm:18.2.22"],\
           ["eslint", "npm:8.57.0"],\
