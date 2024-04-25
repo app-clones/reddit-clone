@@ -19,7 +19,7 @@
         "@types/react-dom": "18.2.25",
         "eslint": "9.1.1",
         "eslint-config-next": "14.2.3",
-        "firebase": "^10.11.0",
+        "firebase": "^10.11.1",
         "framer-motion": "^11.1.7",
         "next": "14.2.3",
         "react": "18.2.0",
