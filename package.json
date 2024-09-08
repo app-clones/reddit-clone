@@ -12,7 +12,7 @@
         "@chakra-ui/react": "^2.8.2",
         "@emotion/react": "^11.13.3",
         "@emotion/styled": "^11.13.0",
-        "@fontsource/open-sans": "^5.0.29",
+        "@fontsource/open-sans": "^5.0.30",
         "@next/font": "14.2.8",
         "@types/node": "20.16.5",
         "@types/react": "18.3.5",
