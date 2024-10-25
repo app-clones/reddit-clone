@@ -181,9 +181,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@chakra-ui/react@npm:^3.0.0":
-  version: 3.0.0
-  resolution: "@chakra-ui/react@npm:3.0.0"
+"@chakra-ui/react@npm:^3.0.1":
+  version: 3.0.1
+  resolution: "@chakra-ui/react@npm:3.0.1"
   dependencies:
     "@ark-ui/anatomy": "npm:3.5.0"
     "@ark-ui/react": "npm:4.1.2"
@@ -197,7 +197,7 @@ __metadata:
     "@emotion/react": ">=11"
     react: ">=18"
     react-dom: ">=18"
-  checksum: 10c0/925c0f345f340855dd23355af47d4931fc847d2c43fe7ec611ee477779efd1829ee5e863452c7125e97c2943522ac13b2d57edb5e0778a600c77e3526a7f17aa
+  checksum: 10c0/0aacb0f6c2fd9b27df0cdb6995582f01022977a3edac0c7298a0acf4f1412a181bcb4cbdf7371a8f2f3a8ba051c8e1d2bf1761dfea0c6c064eb39680eeaeea40
   languageName: node
   linkType: hard
 
@@ -6293,7 +6293,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "reddit-clone@workspace:."
   dependencies:
-    "@chakra-ui/react": "npm:^3.0.0"
+    "@chakra-ui/react": "npm:^3.0.1"
     "@emotion/react": "npm:^11.13.3"
     "@emotion/styled": "npm:^11.13.0"
     "@fontsource/open-sans": "npm:^5.1.0"
