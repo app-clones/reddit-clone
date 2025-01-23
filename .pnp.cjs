@@ -32,7 +32,7 @@ const RAW_RUNTIME_STATE =
           ["@emotion/styled", "virtual:d7d584432701e9ea6acdd476eb5d09493d9311a1872e43ddb39d153287f62a8a75fb5f5f5153c41bed85dcb0e8e2ff4d5227d4ed722c36351c5eff7fe5fb4096#npm:11.14.0"],\
           ["@fontsource/open-sans", "npm:5.1.1"],\
           ["@next/font", "virtual:d7d584432701e9ea6acdd476eb5d09493d9311a1872e43ddb39d153287f62a8a75fb5f5f5153c41bed85dcb0e8e2ff4d5227d4ed722c36351c5eff7fe5fb4096#npm:14.2.15"],\
-          ["@types/node", "npm:22.10.7"],\
+          ["@types/node", "npm:22.10.9"],\
           ["@types/react", "npm:19.0.7"],\
           ["@types/react-dom", "virtual:d7d584432701e9ea6acdd476eb5d09493d9311a1872e43ddb39d153287f62a8a75fb5f5f5153c41bed85dcb0e8e2ff4d5227d4ed722c36351c5eff7fe5fb4096#npm:19.0.3"],\
           ["eslint", "virtual:d7d584432701e9ea6acdd476eb5d09493d9311a1872e43ddb39d153287f62a8a75fb5f5f5153c41bed85dcb0e8e2ff4d5227d4ed722c36351c5eff7fe5fb4096#npm:9.18.0"],\
@@ -2336,10 +2336,10 @@ const RAW_RUNTIME_STATE =
         ],\
         "linkType": "HARD"\
       }],\
-      ["npm:22.10.7", {\
-        "packageLocation": "../../../../cache/others/berry/cache/@types-node-npm-22.10.7-d71170a7fa-10c0.zip/node_modules/@types/node/",\
+      ["npm:22.10.9", {\
+        "packageLocation": "../../../../cache/others/berry/cache/@types-node-npm-22.10.9-13bae5b325-10c0.zip/node_modules/@types/node/",\
         "packageDependencies": [\
-          ["@types/node", "npm:22.10.7"],\
+          ["@types/node", "npm:22.10.9"],\
           ["undici-types", "npm:6.20.0"]\
         ],\
         "linkType": "HARD"\
@@ -6850,7 +6850,7 @@ const RAW_RUNTIME_STATE =
           ["@emotion/styled", "virtual:d7d584432701e9ea6acdd476eb5d09493d9311a1872e43ddb39d153287f62a8a75fb5f5f5153c41bed85dcb0e8e2ff4d5227d4ed722c36351c5eff7fe5fb4096#npm:11.14.0"],\
           ["@fontsource/open-sans", "npm:5.1.1"],\
           ["@next/font", "virtual:d7d584432701e9ea6acdd476eb5d09493d9311a1872e43ddb39d153287f62a8a75fb5f5f5153c41bed85dcb0e8e2ff4d5227d4ed722c36351c5eff7fe5fb4096#npm:14.2.15"],\
-          ["@types/node", "npm:22.10.7"],\
+          ["@types/node", "npm:22.10.9"],\
           ["@types/react", "npm:19.0.7"],\
           ["@types/react-dom", "virtual:d7d584432701e9ea6acdd476eb5d09493d9311a1872e43ddb39d153287f62a8a75fb5f5f5153c41bed85dcb0e8e2ff4d5227d4ed722c36351c5eff7fe5fb4096#npm:19.0.3"],\
           ["eslint", "virtual:d7d584432701e9ea6acdd476eb5d09493d9311a1872e43ddb39d153287f62a8a75fb5f5f5153c41bed85dcb0e8e2ff4d5227d4ed722c36351c5eff7fe5fb4096#npm:9.18.0"],\
