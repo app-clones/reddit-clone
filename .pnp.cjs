@@ -27,7 +27,7 @@ const RAW_RUNTIME_STATE =
       [null, {\
         "packageLocation": "./",\
         "packageDependencies": [\
-          ["@chakra-ui/react", "virtual:d7d584432701e9ea6acdd476eb5d09493d9311a1872e43ddb39d153287f62a8a75fb5f5f5153c41bed85dcb0e8e2ff4d5227d4ed722c36351c5eff7fe5fb4096#npm:3.7.0"],\
+          ["@chakra-ui/react", "virtual:d7d584432701e9ea6acdd476eb5d09493d9311a1872e43ddb39d153287f62a8a75fb5f5f5153c41bed85dcb0e8e2ff4d5227d4ed722c36351c5eff7fe5fb4096#npm:3.8.0"],\
           ["@emotion/react", "virtual:d7d584432701e9ea6acdd476eb5d09493d9311a1872e43ddb39d153287f62a8a75fb5f5f5153c41bed85dcb0e8e2ff4d5227d4ed722c36351c5eff7fe5fb4096#npm:11.14.0"],\
           ["@emotion/styled", "virtual:d7d584432701e9ea6acdd476eb5d09493d9311a1872e43ddb39d153287f62a8a75fb5f5f5153c41bed85dcb0e8e2ff4d5227d4ed722c36351c5eff7fe5fb4096#npm:11.14.0"],\
           ["@fontsource/open-sans", "npm:5.1.1"],\
@@ -65,10 +65,10 @@ const RAW_RUNTIME_STATE =
         ],\
         "linkType": "SOFT"\
       }],\
-      ["virtual:cef5dc34803e9fa1dc8d00e84f66ff430a21ca47d33d2609f1a0d4581d3ee1b1cabc06130ea9952eade169fd4cc3348c9bd2cfc437322f17b216ccad53628f62#npm:4.9.1", {\
-        "packageLocation": "./.yarn/__virtual__/@ark-ui-react-virtual-f2a617b35e/5/cache/others/berry/cache/@ark-ui-react-npm-4.9.1-687fa64354-10c0.zip/node_modules/@ark-ui/react/",\
+      ["virtual:dadc21b23e3e79a5d9043e9b18150dbc2b11ca54ccb019e5f3b13454a5223aa19b84be2e91a49124f6c62a8e4f90219906faddf928a01366f010296f39026f68#npm:4.9.1", {\
+        "packageLocation": "./.yarn/__virtual__/@ark-ui-react-virtual-2e4172a572/5/cache/others/berry/cache/@ark-ui-react-npm-4.9.1-687fa64354-10c0.zip/node_modules/@ark-ui/react/",\
         "packageDependencies": [\
-          ["@ark-ui/react", "virtual:cef5dc34803e9fa1dc8d00e84f66ff430a21ca47d33d2609f1a0d4581d3ee1b1cabc06130ea9952eade169fd4cc3348c9bd2cfc437322f17b216ccad53628f62#npm:4.9.1"],\
+          ["@ark-ui/react", "virtual:dadc21b23e3e79a5d9043e9b18150dbc2b11ca54ccb019e5f3b13454a5223aa19b84be2e91a49124f6c62a8e4f90219906faddf928a01366f010296f39026f68#npm:4.9.1"],\
           ["@internationalized/date", "npm:3.7.0"],\
           ["@types/react", "npm:19.0.8"],\
           ["@types/react-dom", "virtual:d7d584432701e9ea6acdd476eb5d09493d9311a1872e43ddb39d153287f62a8a75fb5f5f5153c41bed85dcb0e8e2ff4d5227d4ed722c36351c5eff7fe5fb4096#npm:19.0.3"],\
@@ -85,8 +85,8 @@ const RAW_RUNTIME_STATE =
           ["@zag-js/color-utils", "npm:0.82.1"],\
           ["@zag-js/combobox", "npm:0.82.1"],\
           ["@zag-js/core", "npm:0.82.1"],\
-          ["@zag-js/date-picker", "virtual:f2a617b35e64c0f9f57224d2176377626b7bd51d5a3498153c38519d7665eaf9f10d4e8012250aec30ce422eb7da7607442e23ea075aa5f970753994fa6e0b3a#npm:0.82.1"],\
-          ["@zag-js/date-utils", "virtual:f2a617b35e64c0f9f57224d2176377626b7bd51d5a3498153c38519d7665eaf9f10d4e8012250aec30ce422eb7da7607442e23ea075aa5f970753994fa6e0b3a#npm:0.82.1"],\
+          ["@zag-js/date-picker", "virtual:2e4172a572b72685029e9697cc9cd6f1c354d900f55e23849af194748fbf06c9d608b2e3e1b6ef6adcb4ac8d139bceda9dcaf59287e63147575eab7548bb4952#npm:0.82.1"],\
+          ["@zag-js/date-utils", "virtual:2e4172a572b72685029e9697cc9cd6f1c354d900f55e23849af194748fbf06c9d608b2e3e1b6ef6adcb4ac8d139bceda9dcaf59287e63147575eab7548bb4952#npm:0.82.1"],\
           ["@zag-js/dialog", "npm:0.82.1"],\
           ["@zag-js/dom-query", "npm:0.82.1"],\
           ["@zag-js/editable", "npm:0.82.1"],\
@@ -106,7 +106,7 @@ const RAW_RUNTIME_STATE =
           ["@zag-js/qr-code", "npm:0.82.1"],\
           ["@zag-js/radio-group", "npm:0.82.1"],\
           ["@zag-js/rating-group", "npm:0.82.1"],\
-          ["@zag-js/react", "virtual:f2a617b35e64c0f9f57224d2176377626b7bd51d5a3498153c38519d7665eaf9f10d4e8012250aec30ce422eb7da7607442e23ea075aa5f970753994fa6e0b3a#npm:0.82.1"],\
+          ["@zag-js/react", "virtual:2e4172a572b72685029e9697cc9cd6f1c354d900f55e23849af194748fbf06c9d608b2e3e1b6ef6adcb4ac8d139bceda9dcaf59287e63147575eab7548bb4952#npm:0.82.1"],\
           ["@zag-js/select", "npm:0.82.1"],\
           ["@zag-js/signature-pad", "npm:0.82.1"],\
           ["@zag-js/slider", "npm:0.82.1"],\
@@ -115,7 +115,7 @@ const RAW_RUNTIME_STATE =
           ["@zag-js/switch", "npm:0.82.1"],\
           ["@zag-js/tabs", "npm:0.82.1"],\
           ["@zag-js/tags-input", "npm:0.82.1"],\
-          ["@zag-js/time-picker", "virtual:f2a617b35e64c0f9f57224d2176377626b7bd51d5a3498153c38519d7665eaf9f10d4e8012250aec30ce422eb7da7607442e23ea075aa5f970753994fa6e0b3a#npm:0.82.1"],\
+          ["@zag-js/time-picker", "virtual:2e4172a572b72685029e9697cc9cd6f1c354d900f55e23849af194748fbf06c9d608b2e3e1b6ef6adcb4ac8d139bceda9dcaf59287e63147575eab7548bb4952#npm:0.82.1"],\
           ["@zag-js/timer", "npm:0.82.1"],\
           ["@zag-js/toast", "npm:0.82.1"],\
           ["@zag-js/toggle-group", "npm:0.82.1"],\
@@ -208,22 +208,22 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["@chakra-ui/react", [\
-      ["npm:3.7.0", {\
-        "packageLocation": "../../../../cache/others/berry/cache/@chakra-ui-react-npm-3.7.0-2da5c864d4-10c0.zip/node_modules/@chakra-ui/react/",\
+      ["npm:3.8.0", {\
+        "packageLocation": "../../../../cache/others/berry/cache/@chakra-ui-react-npm-3.8.0-4f31948454-10c0.zip/node_modules/@chakra-ui/react/",\
         "packageDependencies": [\
-          ["@chakra-ui/react", "npm:3.7.0"]\
+          ["@chakra-ui/react", "npm:3.8.0"]\
         ],\
         "linkType": "SOFT"\
       }],\
-      ["virtual:d7d584432701e9ea6acdd476eb5d09493d9311a1872e43ddb39d153287f62a8a75fb5f5f5153c41bed85dcb0e8e2ff4d5227d4ed722c36351c5eff7fe5fb4096#npm:3.7.0", {\
-        "packageLocation": "./.yarn/__virtual__/@chakra-ui-react-virtual-cef5dc3480/5/cache/others/berry/cache/@chakra-ui-react-npm-3.7.0-2da5c864d4-10c0.zip/node_modules/@chakra-ui/react/",\
+      ["virtual:d7d584432701e9ea6acdd476eb5d09493d9311a1872e43ddb39d153287f62a8a75fb5f5f5153c41bed85dcb0e8e2ff4d5227d4ed722c36351c5eff7fe5fb4096#npm:3.8.0", {\
+        "packageLocation": "./.yarn/__virtual__/@chakra-ui-react-virtual-dadc21b23e/5/cache/others/berry/cache/@chakra-ui-react-npm-3.8.0-4f31948454-10c0.zip/node_modules/@chakra-ui/react/",\
         "packageDependencies": [\
-          ["@chakra-ui/react", "virtual:d7d584432701e9ea6acdd476eb5d09493d9311a1872e43ddb39d153287f62a8a75fb5f5f5153c41bed85dcb0e8e2ff4d5227d4ed722c36351c5eff7fe5fb4096#npm:3.7.0"],\
-          ["@ark-ui/react", "virtual:cef5dc34803e9fa1dc8d00e84f66ff430a21ca47d33d2609f1a0d4581d3ee1b1cabc06130ea9952eade169fd4cc3348c9bd2cfc437322f17b216ccad53628f62#npm:4.9.1"],\
+          ["@chakra-ui/react", "virtual:d7d584432701e9ea6acdd476eb5d09493d9311a1872e43ddb39d153287f62a8a75fb5f5f5153c41bed85dcb0e8e2ff4d5227d4ed722c36351c5eff7fe5fb4096#npm:3.8.0"],\
+          ["@ark-ui/react", "virtual:dadc21b23e3e79a5d9043e9b18150dbc2b11ca54ccb019e5f3b13454a5223aa19b84be2e91a49124f6c62a8e4f90219906faddf928a01366f010296f39026f68#npm:4.9.1"],\
           ["@emotion/is-prop-valid", "npm:1.3.1"],\
           ["@emotion/react", "virtual:d7d584432701e9ea6acdd476eb5d09493d9311a1872e43ddb39d153287f62a8a75fb5f5f5153c41bed85dcb0e8e2ff4d5227d4ed722c36351c5eff7fe5fb4096#npm:11.14.0"],\
           ["@emotion/serialize", "npm:1.3.3"],\
-          ["@emotion/use-insertion-effect-with-fallbacks", "virtual:cef5dc34803e9fa1dc8d00e84f66ff430a21ca47d33d2609f1a0d4581d3ee1b1cabc06130ea9952eade169fd4cc3348c9bd2cfc437322f17b216ccad53628f62#npm:1.2.0"],\
+          ["@emotion/use-insertion-effect-with-fallbacks", "virtual:dadc21b23e3e79a5d9043e9b18150dbc2b11ca54ccb019e5f3b13454a5223aa19b84be2e91a49124f6c62a8e4f90219906faddf928a01366f010296f39026f68#npm:1.2.0"],\
           ["@emotion/utils", "npm:1.4.2"],\
           ["@pandacss/is-valid-prop", "npm:0.41.0"],\
           ["@types/emotion__react", null],\
@@ -340,7 +340,7 @@ const RAW_RUNTIME_STATE =
           ["@emotion/babel-plugin", "npm:11.13.5"],\
           ["@emotion/cache", "npm:11.14.0"],\
           ["@emotion/serialize", "npm:1.3.3"],\
-          ["@emotion/use-insertion-effect-with-fallbacks", "virtual:cef5dc34803e9fa1dc8d00e84f66ff430a21ca47d33d2609f1a0d4581d3ee1b1cabc06130ea9952eade169fd4cc3348c9bd2cfc437322f17b216ccad53628f62#npm:1.2.0"],\
+          ["@emotion/use-insertion-effect-with-fallbacks", "virtual:dadc21b23e3e79a5d9043e9b18150dbc2b11ca54ccb019e5f3b13454a5223aa19b84be2e91a49124f6c62a8e4f90219906faddf928a01366f010296f39026f68#npm:1.2.0"],\
           ["@emotion/utils", "npm:1.4.2"],\
           ["@emotion/weak-memoize", "npm:0.4.0"],\
           ["@types/react", "npm:19.0.8"],\
@@ -394,7 +394,7 @@ const RAW_RUNTIME_STATE =
           ["@emotion/is-prop-valid", "npm:1.3.0"],\
           ["@emotion/react", "virtual:d7d584432701e9ea6acdd476eb5d09493d9311a1872e43ddb39d153287f62a8a75fb5f5f5153c41bed85dcb0e8e2ff4d5227d4ed722c36351c5eff7fe5fb4096#npm:11.14.0"],\
           ["@emotion/serialize", "npm:1.3.3"],\
-          ["@emotion/use-insertion-effect-with-fallbacks", "virtual:cef5dc34803e9fa1dc8d00e84f66ff430a21ca47d33d2609f1a0d4581d3ee1b1cabc06130ea9952eade169fd4cc3348c9bd2cfc437322f17b216ccad53628f62#npm:1.2.0"],\
+          ["@emotion/use-insertion-effect-with-fallbacks", "virtual:dadc21b23e3e79a5d9043e9b18150dbc2b11ca54ccb019e5f3b13454a5223aa19b84be2e91a49124f6c62a8e4f90219906faddf928a01366f010296f39026f68#npm:1.2.0"],\
           ["@emotion/utils", "npm:1.4.2"],\
           ["@types/emotion__react", null],\
           ["@types/react", "npm:19.0.8"],\
@@ -426,10 +426,10 @@ const RAW_RUNTIME_STATE =
         ],\
         "linkType": "SOFT"\
       }],\
-      ["virtual:cef5dc34803e9fa1dc8d00e84f66ff430a21ca47d33d2609f1a0d4581d3ee1b1cabc06130ea9952eade169fd4cc3348c9bd2cfc437322f17b216ccad53628f62#npm:1.2.0", {\
-        "packageLocation": "./.yarn/__virtual__/@emotion-use-insertion-effect-with-fallbacks-virtual-d6504145d2/5/cache/others/berry/cache/@emotion-use-insertion-effect-with-fallbacks-npm-1.2.0-a897c3d989-10c0.zip/node_modules/@emotion/use-insertion-effect-with-fallbacks/",\
+      ["virtual:dadc21b23e3e79a5d9043e9b18150dbc2b11ca54ccb019e5f3b13454a5223aa19b84be2e91a49124f6c62a8e4f90219906faddf928a01366f010296f39026f68#npm:1.2.0", {\
+        "packageLocation": "./.yarn/__virtual__/@emotion-use-insertion-effect-with-fallbacks-virtual-0756dcb877/5/cache/others/berry/cache/@emotion-use-insertion-effect-with-fallbacks-npm-1.2.0-a897c3d989-10c0.zip/node_modules/@emotion/use-insertion-effect-with-fallbacks/",\
         "packageDependencies": [\
-          ["@emotion/use-insertion-effect-with-fallbacks", "virtual:cef5dc34803e9fa1dc8d00e84f66ff430a21ca47d33d2609f1a0d4581d3ee1b1cabc06130ea9952eade169fd4cc3348c9bd2cfc437322f17b216ccad53628f62#npm:1.2.0"],\
+          ["@emotion/use-insertion-effect-with-fallbacks", "virtual:dadc21b23e3e79a5d9043e9b18150dbc2b11ca54ccb019e5f3b13454a5223aa19b84be2e91a49124f6c62a8e4f90219906faddf928a01366f010296f39026f68#npm:1.2.0"],\
           ["@types/react", "npm:19.0.8"],\
           ["react", "npm:19.0.0"]\
         ],\
@@ -2803,15 +2803,15 @@ const RAW_RUNTIME_STATE =
         ],\
         "linkType": "SOFT"\
       }],\
-      ["virtual:f2a617b35e64c0f9f57224d2176377626b7bd51d5a3498153c38519d7665eaf9f10d4e8012250aec30ce422eb7da7607442e23ea075aa5f970753994fa6e0b3a#npm:0.82.1", {\
-        "packageLocation": "./.yarn/__virtual__/@zag-js-date-picker-virtual-3c21d636ec/5/cache/others/berry/cache/@zag-js-date-picker-npm-0.82.1-2d3944e91d-10c0.zip/node_modules/@zag-js/date-picker/",\
+      ["virtual:2e4172a572b72685029e9697cc9cd6f1c354d900f55e23849af194748fbf06c9d608b2e3e1b6ef6adcb4ac8d139bceda9dcaf59287e63147575eab7548bb4952#npm:0.82.1", {\
+        "packageLocation": "./.yarn/__virtual__/@zag-js-date-picker-virtual-5b4e0ba4de/5/cache/others/berry/cache/@zag-js-date-picker-npm-0.82.1-2d3944e91d-10c0.zip/node_modules/@zag-js/date-picker/",\
         "packageDependencies": [\
-          ["@zag-js/date-picker", "virtual:f2a617b35e64c0f9f57224d2176377626b7bd51d5a3498153c38519d7665eaf9f10d4e8012250aec30ce422eb7da7607442e23ea075aa5f970753994fa6e0b3a#npm:0.82.1"],\
+          ["@zag-js/date-picker", "virtual:2e4172a572b72685029e9697cc9cd6f1c354d900f55e23849af194748fbf06c9d608b2e3e1b6ef6adcb4ac8d139bceda9dcaf59287e63147575eab7548bb4952#npm:0.82.1"],\
           ["@internationalized/date", "npm:3.7.0"],\
           ["@types/internationalized__date", null],\
           ["@zag-js/anatomy", "npm:0.82.1"],\
           ["@zag-js/core", "npm:0.82.1"],\
-          ["@zag-js/date-utils", "virtual:f2a617b35e64c0f9f57224d2176377626b7bd51d5a3498153c38519d7665eaf9f10d4e8012250aec30ce422eb7da7607442e23ea075aa5f970753994fa6e0b3a#npm:0.82.1"],\
+          ["@zag-js/date-utils", "virtual:2e4172a572b72685029e9697cc9cd6f1c354d900f55e23849af194748fbf06c9d608b2e3e1b6ef6adcb4ac8d139bceda9dcaf59287e63147575eab7548bb4952#npm:0.82.1"],\
           ["@zag-js/dismissable", "npm:0.82.1"],\
           ["@zag-js/dom-query", "npm:0.82.1"],\
           ["@zag-js/live-region", "npm:0.82.1"],\
@@ -2834,10 +2834,10 @@ const RAW_RUNTIME_STATE =
         ],\
         "linkType": "SOFT"\
       }],\
-      ["virtual:f2a617b35e64c0f9f57224d2176377626b7bd51d5a3498153c38519d7665eaf9f10d4e8012250aec30ce422eb7da7607442e23ea075aa5f970753994fa6e0b3a#npm:0.82.1", {\
-        "packageLocation": "./.yarn/__virtual__/@zag-js-date-utils-virtual-3093594994/5/cache/others/berry/cache/@zag-js-date-utils-npm-0.82.1-f6cee534c6-10c0.zip/node_modules/@zag-js/date-utils/",\
+      ["virtual:2e4172a572b72685029e9697cc9cd6f1c354d900f55e23849af194748fbf06c9d608b2e3e1b6ef6adcb4ac8d139bceda9dcaf59287e63147575eab7548bb4952#npm:0.82.1", {\
+        "packageLocation": "./.yarn/__virtual__/@zag-js-date-utils-virtual-ecdcaa42b8/5/cache/others/berry/cache/@zag-js-date-utils-npm-0.82.1-f6cee534c6-10c0.zip/node_modules/@zag-js/date-utils/",\
         "packageDependencies": [\
-          ["@zag-js/date-utils", "virtual:f2a617b35e64c0f9f57224d2176377626b7bd51d5a3498153c38519d7665eaf9f10d4e8012250aec30ce422eb7da7607442e23ea075aa5f970753994fa6e0b3a#npm:0.82.1"],\
+          ["@zag-js/date-utils", "virtual:2e4172a572b72685029e9697cc9cd6f1c354d900f55e23849af194748fbf06c9d608b2e3e1b6ef6adcb4ac8d139bceda9dcaf59287e63147575eab7548bb4952#npm:0.82.1"],\
           ["@internationalized/date", "npm:3.7.0"],\
           ["@types/internationalized__date", null]\
         ],\
@@ -3192,10 +3192,10 @@ const RAW_RUNTIME_STATE =
         ],\
         "linkType": "SOFT"\
       }],\
-      ["virtual:f2a617b35e64c0f9f57224d2176377626b7bd51d5a3498153c38519d7665eaf9f10d4e8012250aec30ce422eb7da7607442e23ea075aa5f970753994fa6e0b3a#npm:0.82.1", {\
-        "packageLocation": "./.yarn/__virtual__/@zag-js-react-virtual-cdf8efcd45/5/cache/others/berry/cache/@zag-js-react-npm-0.82.1-b7aabd66f4-10c0.zip/node_modules/@zag-js/react/",\
+      ["virtual:2e4172a572b72685029e9697cc9cd6f1c354d900f55e23849af194748fbf06c9d608b2e3e1b6ef6adcb4ac8d139bceda9dcaf59287e63147575eab7548bb4952#npm:0.82.1", {\
+        "packageLocation": "./.yarn/__virtual__/@zag-js-react-virtual-d64e560c8f/5/cache/others/berry/cache/@zag-js-react-npm-0.82.1-b7aabd66f4-10c0.zip/node_modules/@zag-js/react/",\
         "packageDependencies": [\
-          ["@zag-js/react", "virtual:f2a617b35e64c0f9f57224d2176377626b7bd51d5a3498153c38519d7665eaf9f10d4e8012250aec30ce422eb7da7607442e23ea075aa5f970753994fa6e0b3a#npm:0.82.1"],\
+          ["@zag-js/react", "virtual:2e4172a572b72685029e9697cc9cd6f1c354d900f55e23849af194748fbf06c9d608b2e3e1b6ef6adcb4ac8d139bceda9dcaf59287e63147575eab7548bb4952#npm:0.82.1"],\
           ["@types/react", "npm:19.0.8"],\
           ["@types/react-dom", "virtual:d7d584432701e9ea6acdd476eb5d09493d9311a1872e43ddb39d153287f62a8a75fb5f5f5153c41bed85dcb0e8e2ff4d5227d4ed722c36351c5eff7fe5fb4096#npm:19.0.3"],\
           ["@zag-js/core", "npm:0.82.1"],\
@@ -3383,10 +3383,10 @@ const RAW_RUNTIME_STATE =
         ],\
         "linkType": "SOFT"\
       }],\
-      ["virtual:f2a617b35e64c0f9f57224d2176377626b7bd51d5a3498153c38519d7665eaf9f10d4e8012250aec30ce422eb7da7607442e23ea075aa5f970753994fa6e0b3a#npm:0.82.1", {\
-        "packageLocation": "./.yarn/__virtual__/@zag-js-time-picker-virtual-7cdde6384c/5/cache/others/berry/cache/@zag-js-time-picker-npm-0.82.1-fe293b0f46-10c0.zip/node_modules/@zag-js/time-picker/",\
+      ["virtual:2e4172a572b72685029e9697cc9cd6f1c354d900f55e23849af194748fbf06c9d608b2e3e1b6ef6adcb4ac8d139bceda9dcaf59287e63147575eab7548bb4952#npm:0.82.1", {\
+        "packageLocation": "./.yarn/__virtual__/@zag-js-time-picker-virtual-e1e640d66e/5/cache/others/berry/cache/@zag-js-time-picker-npm-0.82.1-fe293b0f46-10c0.zip/node_modules/@zag-js/time-picker/",\
         "packageDependencies": [\
-          ["@zag-js/time-picker", "virtual:f2a617b35e64c0f9f57224d2176377626b7bd51d5a3498153c38519d7665eaf9f10d4e8012250aec30ce422eb7da7607442e23ea075aa5f970753994fa6e0b3a#npm:0.82.1"],\
+          ["@zag-js/time-picker", "virtual:2e4172a572b72685029e9697cc9cd6f1c354d900f55e23849af194748fbf06c9d608b2e3e1b6ef6adcb4ac8d139bceda9dcaf59287e63147575eab7548bb4952#npm:0.82.1"],\
           ["@internationalized/date", "npm:3.7.0"],\
           ["@types/internationalized__date", null],\
           ["@zag-js/anatomy", "npm:0.82.1"],\
@@ -6855,7 +6855,7 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "./",\
         "packageDependencies": [\
           ["reddit-clone", "workspace:."],\
-          ["@chakra-ui/react", "virtual:d7d584432701e9ea6acdd476eb5d09493d9311a1872e43ddb39d153287f62a8a75fb5f5f5153c41bed85dcb0e8e2ff4d5227d4ed722c36351c5eff7fe5fb4096#npm:3.7.0"],\
+          ["@chakra-ui/react", "virtual:d7d584432701e9ea6acdd476eb5d09493d9311a1872e43ddb39d153287f62a8a75fb5f5f5153c41bed85dcb0e8e2ff4d5227d4ed722c36351c5eff7fe5fb4096#npm:3.8.0"],\
           ["@emotion/react", "virtual:d7d584432701e9ea6acdd476eb5d09493d9311a1872e43ddb39d153287f62a8a75fb5f5f5153c41bed85dcb0e8e2ff4d5227d4ed722c36351c5eff7fe5fb4096#npm:11.14.0"],\
           ["@emotion/styled", "virtual:d7d584432701e9ea6acdd476eb5d09493d9311a1872e43ddb39d153287f62a8a75fb5f5f5153c41bed85dcb0e8e2ff4d5227d4ed722c36351c5eff7fe5fb4096#npm:11.14.0"],\
           ["@fontsource/open-sans", "npm:5.1.1"],\
