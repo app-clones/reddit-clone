@@ -39,7 +39,7 @@ const RAW_RUNTIME_STATE =
           ["eslint", "virtual:d7d584432701e9ea6acdd476eb5d09493d9311a1872e43ddb39d153287f62a8a75fb5f5f5153c41bed85dcb0e8e2ff4d5227d4ed722c36351c5eff7fe5fb4096#npm:9.25.1"],\
           ["eslint-config-next", "virtual:d7d584432701e9ea6acdd476eb5d09493d9311a1872e43ddb39d153287f62a8a75fb5f5f5153c41bed85dcb0e8e2ff4d5227d4ed722c36351c5eff7fe5fb4096#npm:15.3.1"],\
           ["firebase", "npm:11.6.0"],\
-          ["framer-motion", "virtual:d7d584432701e9ea6acdd476eb5d09493d9311a1872e43ddb39d153287f62a8a75fb5f5f5153c41bed85dcb0e8e2ff4d5227d4ed722c36351c5eff7fe5fb4096#npm:12.8.0"],\
+          ["framer-motion", "virtual:d7d584432701e9ea6acdd476eb5d09493d9311a1872e43ddb39d153287f62a8a75fb5f5f5153c41bed85dcb0e8e2ff4d5227d4ed722c36351c5eff7fe5fb4096#npm:12.9.1"],\
           ["next", "virtual:d7d584432701e9ea6acdd476eb5d09493d9311a1872e43ddb39d153287f62a8a75fb5f5f5153c41bed85dcb0e8e2ff4d5227d4ed722c36351c5eff7fe5fb4096#npm:15.3.1"],\
           ["react", "npm:19.1.0"],\
           ["react-dom", "virtual:d7d584432701e9ea6acdd476eb5d09493d9311a1872e43ddb39d153287f62a8a75fb5f5f5153c41bed85dcb0e8e2ff4d5227d4ed722c36351c5eff7fe5fb4096#npm:19.1.0"],\
@@ -5266,23 +5266,23 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["framer-motion", [\
-      ["npm:12.8.0", {\
-        "packageLocation": "../../../../../../runner/cache/others/berry/cache/framer-motion-npm-12.8.0-e6a3e17eb8-10c0.zip/node_modules/framer-motion/",\
+      ["npm:12.9.1", {\
+        "packageLocation": "../../../../../../runner/cache/others/berry/cache/framer-motion-npm-12.9.1-9c590a7268-10c0.zip/node_modules/framer-motion/",\
         "packageDependencies": [\
-          ["framer-motion", "npm:12.8.0"]\
+          ["framer-motion", "npm:12.9.1"]\
         ],\
         "linkType": "SOFT"\
       }],\
-      ["virtual:d7d584432701e9ea6acdd476eb5d09493d9311a1872e43ddb39d153287f62a8a75fb5f5f5153c41bed85dcb0e8e2ff4d5227d4ed722c36351c5eff7fe5fb4096#npm:12.8.0", {\
-        "packageLocation": "./.yarn/__virtual__/framer-motion-virtual-e43815c5f3/7/runner/cache/others/berry/cache/framer-motion-npm-12.8.0-e6a3e17eb8-10c0.zip/node_modules/framer-motion/",\
+      ["virtual:d7d584432701e9ea6acdd476eb5d09493d9311a1872e43ddb39d153287f62a8a75fb5f5f5153c41bed85dcb0e8e2ff4d5227d4ed722c36351c5eff7fe5fb4096#npm:12.9.1", {\
+        "packageLocation": "./.yarn/__virtual__/framer-motion-virtual-63673b8d40/7/runner/cache/others/berry/cache/framer-motion-npm-12.9.1-9c590a7268-10c0.zip/node_modules/framer-motion/",\
         "packageDependencies": [\
           ["@emotion/is-prop-valid", null],\
           ["@types/emotion__is-prop-valid", null],\
           ["@types/react", "npm:19.1.2"],\
           ["@types/react-dom", "virtual:d7d584432701e9ea6acdd476eb5d09493d9311a1872e43ddb39d153287f62a8a75fb5f5f5153c41bed85dcb0e8e2ff4d5227d4ed722c36351c5eff7fe5fb4096#npm:19.1.2"],\
-          ["framer-motion", "virtual:d7d584432701e9ea6acdd476eb5d09493d9311a1872e43ddb39d153287f62a8a75fb5f5f5153c41bed85dcb0e8e2ff4d5227d4ed722c36351c5eff7fe5fb4096#npm:12.8.0"],\
-          ["motion-dom", "npm:12.8.0"],\
-          ["motion-utils", "npm:12.7.5"],\
+          ["framer-motion", "virtual:d7d584432701e9ea6acdd476eb5d09493d9311a1872e43ddb39d153287f62a8a75fb5f5f5153c41bed85dcb0e8e2ff4d5227d4ed722c36351c5eff7fe5fb4096#npm:12.9.1"],\
+          ["motion-dom", "npm:12.9.1"],\
+          ["motion-utils", "npm:12.8.3"],\
           ["react", "npm:19.1.0"],\
           ["react-dom", "virtual:d7d584432701e9ea6acdd476eb5d09493d9311a1872e43ddb39d153287f62a8a75fb5f5f5153c41bed85dcb0e8e2ff4d5227d4ed722c36351c5eff7fe5fb4096#npm:19.1.0"],\
           ["tslib", "npm:2.5.0"]\
@@ -6370,20 +6370,20 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["motion-dom", [\
-      ["npm:12.8.0", {\
-        "packageLocation": "../../../../../../runner/cache/others/berry/cache/motion-dom-npm-12.8.0-7b6877e98a-10c0.zip/node_modules/motion-dom/",\
+      ["npm:12.9.1", {\
+        "packageLocation": "../../../../../../runner/cache/others/berry/cache/motion-dom-npm-12.9.1-89cd9f29b4-10c0.zip/node_modules/motion-dom/",\
         "packageDependencies": [\
-          ["motion-dom", "npm:12.8.0"],\
-          ["motion-utils", "npm:12.7.5"]\
+          ["motion-dom", "npm:12.9.1"],\
+          ["motion-utils", "npm:12.8.3"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["motion-utils", [\
-      ["npm:12.7.5", {\
-        "packageLocation": "../../../../../../runner/cache/others/berry/cache/motion-utils-npm-12.7.5-37868e990b-10c0.zip/node_modules/motion-utils/",\
+      ["npm:12.8.3", {\
+        "packageLocation": "../../../../../../runner/cache/others/berry/cache/motion-utils-npm-12.8.3-61080f4165-10c0.zip/node_modules/motion-utils/",\
         "packageDependencies": [\
-          ["motion-utils", "npm:12.7.5"]\
+          ["motion-utils", "npm:12.8.3"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -6924,7 +6924,7 @@ const RAW_RUNTIME_STATE =
           ["eslint", "virtual:d7d584432701e9ea6acdd476eb5d09493d9311a1872e43ddb39d153287f62a8a75fb5f5f5153c41bed85dcb0e8e2ff4d5227d4ed722c36351c5eff7fe5fb4096#npm:9.25.1"],\
           ["eslint-config-next", "virtual:d7d584432701e9ea6acdd476eb5d09493d9311a1872e43ddb39d153287f62a8a75fb5f5f5153c41bed85dcb0e8e2ff4d5227d4ed722c36351c5eff7fe5fb4096#npm:15.3.1"],\
           ["firebase", "npm:11.6.0"],\
-          ["framer-motion", "virtual:d7d584432701e9ea6acdd476eb5d09493d9311a1872e43ddb39d153287f62a8a75fb5f5f5153c41bed85dcb0e8e2ff4d5227d4ed722c36351c5eff7fe5fb4096#npm:12.8.0"],\
+          ["framer-motion", "virtual:d7d584432701e9ea6acdd476eb5d09493d9311a1872e43ddb39d153287f62a8a75fb5f5f5153c41bed85dcb0e8e2ff4d5227d4ed722c36351c5eff7fe5fb4096#npm:12.9.1"],\
           ["next", "virtual:d7d584432701e9ea6acdd476eb5d09493d9311a1872e43ddb39d153287f62a8a75fb5f5f5153c41bed85dcb0e8e2ff4d5227d4ed722c36351c5eff7fe5fb4096#npm:15.3.1"],\
           ["react", "npm:19.1.0"],\
           ["react-dom", "virtual:d7d584432701e9ea6acdd476eb5d09493d9311a1872e43ddb39d153287f62a8a75fb5f5f5153c41bed85dcb0e8e2ff4d5227d4ed722c36351c5eff7fe5fb4096#npm:19.1.0"],\
