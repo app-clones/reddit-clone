@@ -14,7 +14,7 @@
         "@emotion/styled": "^11.14.0",
         "@fontsource/open-sans": "^5.2.5",
         "@next/font": "14.2.15",
-        "@types/node": "22.15.29",
+        "@types/node": "22.15.30",
         "@types/react": "19.1.6",
         "@types/react-dom": "19.1.6",
         "eslint": "9.28.0",
