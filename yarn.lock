@@ -3986,9 +3986,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"framer-motion@npm:^12.23.9":
-  version: 12.23.9
-  resolution: "framer-motion@npm:12.23.9"
+"framer-motion@npm:^12.23.11":
+  version: 12.23.11
+  resolution: "framer-motion@npm:12.23.11"
   dependencies:
     motion-dom: "npm:^12.23.9"
     motion-utils: "npm:^12.23.6"
@@ -4004,7 +4004,7 @@ __metadata:
       optional: true
     react-dom:
       optional: true
-  checksum: 10c0/099a414c557712cc9697071f0753528b9c6a332c8f77c805bb8730800225960742f814f5b3837b6f713145885e511e78a8c54c92204850cc2261d4c129defcdc
+  checksum: 10c0/eb7df3d717a3a96ab125afa2615265dbc306f6f409e478eb1f019b1408f2dd19ad05227f532777952519f36816cd04da4174e342b065528def9729795b58f523
   languageName: node
   linkType: hard
 
@@ -5453,7 +5453,7 @@ __metadata:
     eslint: "npm:9.32.0"
     eslint-config-next: "npm:15.4.4"
     firebase: "npm:^12.0.0"
-    framer-motion: "npm:^12.23.9"
+    framer-motion: "npm:^12.23.11"
     next: "npm:15.4.4"
     react: "npm:19.1.0"
     react-dom: "npm:19.1.0"
