@@ -27,5 +27,5 @@
         "recoil": "^0.7.7",
         "typescript": "5.9.2"
     },
-    "packageManager": "yarn@4.9.2"
+    "packageManager": "yarn@4.9.3"
 }
