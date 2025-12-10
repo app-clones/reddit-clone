@@ -20,7 +20,7 @@
         "eslint": "9.39.1",
         "eslint-config-next": "16.0.8",
         "firebase": "^12.6.0",
-        "framer-motion": "^12.23.25",
+        "framer-motion": "^12.23.26",
         "next": "16.0.8",
         "react": "19.2.1",
         "react-dom": "19.2.1",
