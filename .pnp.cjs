@@ -4346,7 +4346,7 @@ const RAW_RUNTIME_STATE =
           ["@babel/runtime", "npm:7.20.13"],\
           ["babel-plugin-macros", "npm:3.1.0"],\
           ["cosmiconfig", "npm:7.1.0"],\
-          ["resolve", "patch:resolve@npm%3A1.22.1#optional!builtin<compat/resolve>::version=1.22.1&hash=c3c19d"]\
+          ["resolve", "patch:resolve@npm%3A1.22.1#optional!builtin<compat/resolve>::version=1.22.1&hash=9bd1a5"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -5423,7 +5423,7 @@ const RAW_RUNTIME_STATE =
           ["debug", "virtual:65bed195431eadffc59e2238eb20cc12d9a1665bc7458ce780a9320ff795091b03cb5c4c2094938315ddd967b5b02c0f1df67b3ed435c69b7457092b7cc06ed8#npm:3.2.7"],\
           ["eslint-import-resolver-node", "npm:0.3.7"],\
           ["is-core-module", "npm:2.11.0"],\
-          ["resolve", "patch:resolve@npm%3A1.22.1#optional!builtin<compat/resolve>::version=1.22.1&hash=c3c19d"]\
+          ["resolve", "patch:resolve@npm%3A1.22.1#optional!builtin<compat/resolve>::version=1.22.1&hash=9bd1a5"]\
         ],\
         "linkType": "HARD"\
       }],\
@@ -5433,7 +5433,7 @@ const RAW_RUNTIME_STATE =
           ["debug", "virtual:65bed195431eadffc59e2238eb20cc12d9a1665bc7458ce780a9320ff795091b03cb5c4c2094938315ddd967b5b02c0f1df67b3ed435c69b7457092b7cc06ed8#npm:3.2.7"],\
           ["eslint-import-resolver-node", "npm:0.3.9"],\
           ["is-core-module", "npm:2.13.0"],\
-          ["resolve", "patch:resolve@npm%3A1.22.8#optional!builtin<compat/resolve>::version=1.22.8&hash=c3c19d"]\
+          ["resolve", "patch:resolve@npm%3A1.22.8#optional!builtin<compat/resolve>::version=1.22.8&hash=9bd1a5"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -5621,7 +5621,7 @@ const RAW_RUNTIME_STATE =
           ["object.fromentries", "npm:2.0.8"],\
           ["object.values", "npm:1.2.0"],\
           ["prop-types", "npm:15.8.1"],\
-          ["resolve", "patch:resolve@npm%3A2.0.0-next.5#optional!builtin<compat/resolve>::version=2.0.0-next.5&hash=c3c19d"],\
+          ["resolve", "patch:resolve@npm%3A2.0.0-next.5#optional!builtin<compat/resolve>::version=2.0.0-next.5&hash=9bd1a5"],\
           ["semver", "npm:6.3.1"],\
           ["string.prototype.matchall", "npm:4.0.11"],\
           ["string.prototype.repeat", "npm:1.0.0"]\
@@ -8049,32 +8049,32 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["resolve", [\
-      ["patch:resolve@npm%3A1.22.1#optional!builtin<compat/resolve>::version=1.22.1&hash=c3c19d", {\
-        "packageLocation": "../../../../../../runner/cache/others/berry/cache/resolve-patch-61fc5136ce-10c0.zip/node_modules/resolve/",\
+      ["patch:resolve@npm%3A1.22.1#optional!builtin<compat/resolve>::version=1.22.1&hash=9bd1a5", {\
+        "packageLocation": "../../../../../../runner/cache/others/berry/cache/resolve-patch-3369d8d843-10c0.zip/node_modules/resolve/",\
         "packageDependencies": [\
           ["is-core-module", "npm:2.11.0"],\
           ["path-parse", "npm:1.0.7"],\
-          ["resolve", "patch:resolve@npm%3A1.22.1#optional!builtin<compat/resolve>::version=1.22.1&hash=c3c19d"],\
+          ["resolve", "patch:resolve@npm%3A1.22.1#optional!builtin<compat/resolve>::version=1.22.1&hash=9bd1a5"],\
           ["supports-preserve-symlinks-flag", "npm:1.0.0"]\
         ],\
         "linkType": "HARD"\
       }],\
-      ["patch:resolve@npm%3A1.22.8#optional!builtin<compat/resolve>::version=1.22.8&hash=c3c19d", {\
-        "packageLocation": "../../../../../../runner/cache/others/berry/cache/resolve-patch-4254c24959-10c0.zip/node_modules/resolve/",\
+      ["patch:resolve@npm%3A1.22.8#optional!builtin<compat/resolve>::version=1.22.8&hash=9bd1a5", {\
+        "packageLocation": "../../../../../../runner/cache/others/berry/cache/resolve-patch-49bde8f0be-10c0.zip/node_modules/resolve/",\
         "packageDependencies": [\
           ["is-core-module", "npm:2.13.0"],\
           ["path-parse", "npm:1.0.7"],\
-          ["resolve", "patch:resolve@npm%3A1.22.8#optional!builtin<compat/resolve>::version=1.22.8&hash=c3c19d"],\
+          ["resolve", "patch:resolve@npm%3A1.22.8#optional!builtin<compat/resolve>::version=1.22.8&hash=9bd1a5"],\
           ["supports-preserve-symlinks-flag", "npm:1.0.0"]\
         ],\
         "linkType": "HARD"\
       }],\
-      ["patch:resolve@npm%3A2.0.0-next.5#optional!builtin<compat/resolve>::version=2.0.0-next.5&hash=c3c19d", {\
-        "packageLocation": "../../../../../../runner/cache/others/berry/cache/resolve-patch-95f8f5d302-10c0.zip/node_modules/resolve/",\
+      ["patch:resolve@npm%3A2.0.0-next.5#optional!builtin<compat/resolve>::version=2.0.0-next.5&hash=9bd1a5", {\
+        "packageLocation": "../../../../../../runner/cache/others/berry/cache/resolve-patch-cb8aca1f89-10c0.zip/node_modules/resolve/",\
         "packageDependencies": [\
           ["is-core-module", "npm:2.13.0"],\
           ["path-parse", "npm:1.0.7"],\
-          ["resolve", "patch:resolve@npm%3A2.0.0-next.5#optional!builtin<compat/resolve>::version=2.0.0-next.5&hash=c3c19d"],\
+          ["resolve", "patch:resolve@npm%3A2.0.0-next.5#optional!builtin<compat/resolve>::version=2.0.0-next.5&hash=9bd1a5"],\
           ["supports-preserve-symlinks-flag", "npm:1.0.0"]\
         ],\
         "linkType": "HARD"\
@@ -9560,16 +9560,16 @@ function convertToBigIntStats(stats) {
     if (Object.hasOwn(stats, key)) {
       const element = stats[key];
       if (typeof element === `number`) {
-        bigintStats[key] = BigInt(element);
+        bigintStats[key] = BigInt(Math.floor(element));
       } else if (nodeUtils__namespace.types.isDate(element)) {
         bigintStats[key] = new Date(element);
       }
     }
   }
-  bigintStats.atimeNs = bigintStats.atimeMs * BigInt(1e6);
-  bigintStats.mtimeNs = bigintStats.mtimeMs * BigInt(1e6);
-  bigintStats.ctimeNs = bigintStats.ctimeMs * BigInt(1e6);
-  bigintStats.birthtimeNs = bigintStats.birthtimeMs * BigInt(1e6);
+  bigintStats.atimeNs = bigintStats.atimeMs * BigInt(1e6) + BigInt(Math.floor(stats.atimeMs % 1 * 1e3)) * BigInt(1e3);
+  bigintStats.mtimeNs = bigintStats.mtimeMs * BigInt(1e6) + BigInt(Math.floor(stats.mtimeMs % 1 * 1e3)) * BigInt(1e3);
+  bigintStats.ctimeNs = bigintStats.ctimeMs * BigInt(1e6) + BigInt(Math.floor(stats.ctimeMs % 1 * 1e3)) * BigInt(1e3);
+  bigintStats.birthtimeNs = bigintStats.birthtimeMs * BigInt(1e6) + BigInt(Math.floor(stats.birthtimeMs % 1 * 1e3)) * BigInt(1e3);
   return bigintStats;
 }
 function areStatsEqual(a, b) {
@@ -15057,7 +15057,7 @@ function getPathForDisplay(p) {
   return npath.normalize(npath.fromPortablePath(p));
 }
 
-const [major, minor] = process.versions.node.split(`.`).map((value) => parseInt(value, 10));
+const [major, minor, patch] = process.versions.node.split(`.`).map((value) => parseInt(value, 10));
 const WATCH_MODE_MESSAGE_USES_ARRAYS = major > 19 || major === 19 && minor >= 2 || major === 18 && minor >= 13;
 
 function readPackageScope(checkPath) {
@@ -15092,9 +15092,9 @@ Instead change the require of ${basename} in ${parentPath} to a dynamic import()
   err.code = `ERR_REQUIRE_ESM`;
   return err;
 }
-function reportRequiredFilesToWatchMode(files) {
+function reportRequiredFilesToWatchMode(paths) {
   if (process.env.WATCH_REPORT_DEPENDENCIES && process.send) {
-    files = files.map((filename) => npath.fromPortablePath(VirtualFS.resolveVirtual(npath.toPortablePath(filename))));
+    const files = paths.map((filename) => npath.fromPortablePath(VirtualFS.resolveVirtual(filename)));
     if (WATCH_MODE_MESSAGE_USES_ARRAYS) {
       process.send({ "watch:require": files });
     } else {
@@ -16737,9 +16737,10 @@ Required by: ${issuerLocator.name}@${issuerLocator.reference} (via ${issuerForDi
     const candidates = [];
     const qualifiedPath = applyNodeExtensionResolution(unqualifiedPath, candidates, { extensions });
     if (qualifiedPath) {
+      reportRequiredFilesToWatchMode([qualifiedPath]);
       return ppath.normalize(qualifiedPath);
     } else {
-      reportRequiredFilesToWatchMode(candidates.map((candidate) => npath.fromPortablePath(candidate)));
+      reportRequiredFilesToWatchMode(candidates);
       const unqualifiedPathForDisplay = getPathForDisplay(unqualifiedPath);
       const containingPackage = findPackageLocator(unqualifiedPath);
       if (containingPackage) {
