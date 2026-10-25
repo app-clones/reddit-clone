@@ -33,7 +33,7 @@ const RAW_RUNTIME_STATE =
           ["@emotion/styled", "virtual:d7d584432701e9ea6acdd476eb5d09493d9311a1872e43ddb39d153287f62a8a75fb5f5f5153c41bed85dcb0e8e2ff4d5227d4ed722c36351c5eff7fe5fb4096#npm:11.14.1"],\
           ["@fontsource/open-sans", "npm:5.3.0"],\
           ["@next/font", "virtual:d7d584432701e9ea6acdd476eb5d09493d9311a1872e43ddb39d153287f62a8a75fb5f5f5153c41bed85dcb0e8e2ff4d5227d4ed722c36351c5eff7fe5fb4096#npm:14.2.15"],\
-          ["@types/node", "npm:24.13.3"],\
+          ["@types/node", "npm:24.19.2"],\
           ["@types/react", "npm:19.2.18"],\
           ["@types/react-dom", "virtual:d7d584432701e9ea6acdd476eb5d09493d9311a1872e43ddb39d153287f62a8a75fb5f5f5153c41bed85dcb0e8e2ff4d5227d4ed722c36351c5eff7fe5fb4096#npm:19.2.4"],\
           ["eslint", "virtual:d7d584432701e9ea6acdd476eb5d09493d9311a1872e43ddb39d153287f62a8a75fb5f5f5153c41bed85dcb0e8e2ff4d5227d4ed722c36351c5eff7fe5fb4096#npm:10.8.1"],\
@@ -2645,11 +2645,11 @@ const RAW_RUNTIME_STATE =
         ],\
         "linkType": "HARD"\
       }],\
-      ["npm:24.13.3", {\
-        "packageLocation": "../../../../../../runner/cache/others/berry/cache/@types-node-npm-24.13.3-b512a0bbeb-10c0.zip/node_modules/@types/node/",\
+      ["npm:24.19.2", {\
+        "packageLocation": "../../../../../../runner/cache/others/berry/cache/@types-node-npm-24.19.2-57343a6385-10c0.zip/node_modules/@types/node/",\
         "packageDependencies": [\
-          ["@types/node", "npm:24.13.3"],\
-          ["undici-types", "npm:7.18.2"]\
+          ["@types/node", "npm:24.19.2"],\
+          ["undici-types", "npm:7.24.6"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -7973,7 +7973,7 @@ const RAW_RUNTIME_STATE =
           ["@emotion/styled", "virtual:d7d584432701e9ea6acdd476eb5d09493d9311a1872e43ddb39d153287f62a8a75fb5f5f5153c41bed85dcb0e8e2ff4d5227d4ed722c36351c5eff7fe5fb4096#npm:11.14.1"],\
           ["@fontsource/open-sans", "npm:5.3.0"],\
           ["@next/font", "virtual:d7d584432701e9ea6acdd476eb5d09493d9311a1872e43ddb39d153287f62a8a75fb5f5f5153c41bed85dcb0e8e2ff4d5227d4ed722c36351c5eff7fe5fb4096#npm:14.2.15"],\
-          ["@types/node", "npm:24.13.3"],\
+          ["@types/node", "npm:24.19.2"],\
           ["@types/react", "npm:19.2.18"],\
           ["@types/react-dom", "virtual:d7d584432701e9ea6acdd476eb5d09493d9311a1872e43ddb39d153287f62a8a75fb5f5f5153c41bed85dcb0e8e2ff4d5227d4ed722c36351c5eff7fe5fb4096#npm:19.2.4"],\
           ["eslint", "virtual:d7d584432701e9ea6acdd476eb5d09493d9311a1872e43ddb39d153287f62a8a75fb5f5f5153c41bed85dcb0e8e2ff4d5227d4ed722c36351c5eff7fe5fb4096#npm:10.8.1"],\
@@ -9061,10 +9061,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["undici-types", [\
-      ["npm:7.18.2", {\
-        "packageLocation": "../../../../../../runner/cache/others/berry/cache/undici-types-npm-7.18.2-3e6d69d829-10c0.zip/node_modules/undici-types/",\
+      ["npm:7.24.6", {\
+        "packageLocation": "../../../../../../runner/cache/others/berry/cache/undici-types-npm-7.24.6-8759b28e34-10c0.zip/node_modules/undici-types/",\
         "packageDependencies": [\
-          ["undici-types", "npm:7.18.2"]\
+          ["undici-types", "npm:7.24.6"]\
         ],\
         "linkType": "HARD"\
       }]\
